@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/himanshuGaur684/Model_View_Intent_In_Android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lelandrichardson/compose-dogfooding.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\bravo\AndroidStudioProjects" />
