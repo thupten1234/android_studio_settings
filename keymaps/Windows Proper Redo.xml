@@ -16,6 +16,9 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="alt numpad0" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
