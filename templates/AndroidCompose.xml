@@ -1,6 +1,15 @@
 <templateSet group="AndroidCompose">
+  <template name="comp" value="@androidx.compose.runtime.Composable&#10;fun $NAME$(modifier:Modifier) {&#10;$END$&#10;}" description="Create @Composable function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
   <template name="mod" value="modifier = androidx.compose.ui.Modifier.$PARAM$" description="Add modifier parameter" toReformat="false" toShortenFQNames="true">
     <variable name="PARAM" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="modmod" value="modifier = modifier" description="Add modifier = modifier parameter" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_EXPRESSION" value="true" />
     </context>
