@@ -11,6 +11,7 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CopyElement" />
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
@@ -25,6 +26,9 @@
     <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="ForceRefresh">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="Git.Branches" />
   <action id="QuickChangeScheme" />
   <action id="SmartSelect" />
