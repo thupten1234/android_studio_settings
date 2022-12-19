@@ -7,6 +7,10 @@
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
@@ -20,8 +24,10 @@
   <action id="EditorResetFontSize">
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="Git.Branches" />
   <action id="QuickChangeScheme" />
+  <action id="SmartSelect" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
@@ -32,6 +38,7 @@
     <keyboard-shortcut first-keystroke="alt numpad0" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="UsageFiltering.WriteAccess" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
