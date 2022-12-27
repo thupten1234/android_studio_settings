@@ -6,6 +6,7 @@
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="32" />
     <option name="MAX_LOOKUP_WIDTH2" value="1177" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
   </component>
 </application>
