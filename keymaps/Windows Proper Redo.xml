@@ -35,6 +35,9 @@
   </action>
   <action id="Git.Branches" />
   <action id="QuickChangeScheme" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
   <action id="SmartSelect" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
@@ -45,6 +48,7 @@
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="alt numpad0" />
   </action>
+  <action id="TextSearchAction" />
   <action id="UpdateRunningApplication" />
   <action id="UsageFiltering.WriteAccess" />
   <action id="android.deploy.ApplyChanges">
