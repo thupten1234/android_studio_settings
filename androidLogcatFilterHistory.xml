@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine response " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine response " />
+        <option value="package:mine response type" />
         <option value="package:mine " />
         <option value="package:mine Recompose" />
         <option value="package:mine currentRecomposeScope" />
