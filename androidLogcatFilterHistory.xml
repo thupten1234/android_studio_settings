@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine response " />
+    <option name="mostRecentlyUsed" value="package:mine RoutesFragment " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine RoutesFragment " />
         <option value="package:mine response " />
         <option value="package:mine response type" />
         <option value="package:mine " />
