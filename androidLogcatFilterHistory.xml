@@ -1,14 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:Logger message:Remote" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:Logger message:Remote" />
         <option value="package:mine tag:Logger message:Main" />
         <option value="package:mine tag:Logger message:Routes" />
         <option value="package:mine tag:Logger " />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine RoutesViewModel" />
         <option value="package:mine RoutesFragment " />
         <option value="package:mine response " />
