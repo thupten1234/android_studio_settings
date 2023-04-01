@@ -41,8 +41,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="loggerw" value="timber.log.Timber.w($exception$, &quot;$METHOD_NAME$: $content$&quot;);" description="Log.w(TAG, String, Exception)" toReformat="true" toShortenFQNames="true">
-    <variable name="exception" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="loggerw" value="timber.log.Timber.w(&quot;$METHOD_NAME$: $content$&quot;);" description="Log.w(TAG, String, Exception)" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
