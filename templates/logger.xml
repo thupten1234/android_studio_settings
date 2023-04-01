@@ -34,8 +34,8 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="loggervst" value="timber.log.Timber.d(new Throwable(), &quot;$METHOD_NAME$: $content$&quot;);" description="log v with stacktrace" toReformat="true" toShortenFQNames="true">
-    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="loggervst" value="timber.log.Timber.v(new Throwable(), &quot;$METHOD_NAME$: $content$&quot;);" description="log v with stacktrace" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
