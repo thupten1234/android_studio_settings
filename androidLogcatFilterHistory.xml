@@ -1,6 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="favorites">
+      <list>
+        <option value="package:mine FragmentManager" />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="package:mine FragmentManager" />
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
