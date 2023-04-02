@@ -2,17 +2,20 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine NextBusRe" />
+        <option value="package:mine ViewModel" />
+        <option value="FragmentManager" />
+        <option value="package:mine TCLOG level:debug " />
         <option value="package:mine TCLOG" />
         <option value="package:mine FragmentManager" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="FragmentManager" />
+    <option name="mostRecentlyUsed" value="package:mine NextBusRe" />
     <option name="nonFavorites">
       <list>
-        <option value="FragmentManager" />
-        <option value="package:mine TCLOG level:debug " />
-        <option value="package:mine ViewModel" />
-        <option value="package:mine " />
+        <option value="package:mine getRouteDeta" />
+        <option value="package:mine init:" />
         <option value="DirectionsFragment" />
         <option value="package:mine directionLive" />
         <option value="package:mine tag:Logger message:Remote" />
@@ -26,7 +29,6 @@
         <option value="package:mine response type" />
         <option value="package:mine Recompose" />
         <option value="package:mine currentRecomposeScope" />
-        <option value="package:" />
       </list>
     </option>
   </component>
