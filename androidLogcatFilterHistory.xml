@@ -6,11 +6,14 @@
         <option value="package:mine FragmentManager" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="FragmentManager" />
     <option name="nonFavorites">
       <list>
-        <option value="DirectionsFragment" />
+        <option value="FragmentManager" />
+        <option value="package:mine TCLOG level:debug " />
+        <option value="package:mine ViewModel" />
         <option value="package:mine " />
+        <option value="DirectionsFragment" />
         <option value="package:mine directionLive" />
         <option value="package:mine tag:Logger message:Remote" />
         <option value="package:mine tag:Logger message:Main" />
