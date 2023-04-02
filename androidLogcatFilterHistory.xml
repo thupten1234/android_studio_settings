@@ -6,11 +6,12 @@
         <option value="package:mine FragmentManager" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine directionLive" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine directionLive" />
+        <option value="DirectionsFragment" />
         <option value="package:mine " />
+        <option value="package:mine directionLive" />
         <option value="package:mine tag:Logger message:Remote" />
         <option value="package:mine tag:Logger message:Main" />
         <option value="package:mine tag:Logger message:Routes" />
