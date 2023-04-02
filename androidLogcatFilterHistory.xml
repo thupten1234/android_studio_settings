@@ -11,9 +11,10 @@
         <option value="package:mine FragmentManager" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine filter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine filter" />
         <option value="package:mine" />
         <option value="package:mine level:warn" />
         <option value="package:mine level:error " />
