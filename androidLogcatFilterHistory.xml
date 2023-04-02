@@ -11,9 +11,11 @@
         <option value="package:mine FragmentManager" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine level:warn" />
         <option value="package:mine level:error " />
         <option value="level:error " />
         <option value="package:mine getRouteDeta" />
@@ -24,7 +26,6 @@
         <option value="package:mine tag:Logger message:Main" />
         <option value="package:mine tag:Logger message:Routes" />
         <option value="package:mine tag:Logger " />
-        <option value="package:mine" />
         <option value="package:mine RoutesViewModel" />
         <option value="package:mine RoutesFragment " />
         <option value="package:mine response " />
