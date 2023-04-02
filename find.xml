@@ -11,7 +11,7 @@
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>Fav*.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
