@@ -62,8 +62,8 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="asdf" value="timber.log.Timber.d($content$);" description="log with parameters" toReformat="true" toShortenFQNames="true">
-    <variable name="content" expression="groovyScript(&quot;def params = _2.collect {it + '=%s'}.join(', '); def values = _2.collect {it}.join(', '); return '\&quot;' + _1 + '() called' + (params.empty  ? '' : ' with: ' + params + &quot;, &quot;) + '\&quot;'&quot;, methodName(), methodParameters())" defaultValue="" alwaysStopAt="false" />
+  <template name="asdfasdf" value="timber.log.Timber.d($content$);" description="log with parameters" toReformat="true" toShortenFQNames="true">
+    <variable name="content" expression="groovyScript(&quot;E:\\\\thupten\\\\development\\\\transitbus\\\\logger_live_template.groovy&quot;, methodName(), methodParameters())" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
     </context>
