@@ -11,9 +11,9 @@
         <option value="package:mine FragmentManager" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine NBRemote" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  NBRemoteApi" />
         <option value="package:mine NBRemote" />
         <option value="package:mine PredictionsHel" />
         <option value="package:mine PredictionFragment" />
@@ -33,7 +33,6 @@
         <option value="package:mine tag:Logger " />
         <option value="package:mine RoutesViewModel" />
         <option value="package:mine RoutesFragment " />
-        <option value="package:mine response " />
       </list>
     </option>
   </component>
