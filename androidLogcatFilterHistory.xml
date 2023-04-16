@@ -11,8 +11,12 @@
         <option value="package:mine FragmentManager" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine WizardViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WizardViewModel" />
+        <option value="package:mine Directions" />
+        <option value="package:mine Predic" />
         <option value="package:mine  NBRemoteApi" />
         <option value="package:mine NBRemote" />
         <option value="package:mine PredictionsHel" />
@@ -30,9 +34,6 @@
         <option value="package:mine tag:Logger message:Remote" />
         <option value="package:mine tag:Logger message:Main" />
         <option value="package:mine tag:Logger message:Routes" />
-        <option value="package:mine tag:Logger " />
-        <option value="package:mine RoutesViewModel" />
-        <option value="package:mine RoutesFragment " />
       </list>
     </option>
   </component>
