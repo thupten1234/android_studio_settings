@@ -14,6 +14,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine init" />
         <option value="level:error " />
         <option value="package:mine tag:TCLog " />
         <option value="package:mine WizardViewM|Directions" />
@@ -33,7 +34,6 @@
         <option value="package:mine getRouteDeta" />
         <option value="package:mine init:" />
         <option value="DirectionsFragment" />
-        <option value="package:mine directionLive" />
       </list>
     </option>
   </component>
