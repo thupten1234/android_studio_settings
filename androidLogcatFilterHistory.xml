@@ -11,9 +11,10 @@
         <option value="package:mine FragmentManager" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine WizardViewM" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine WizardViewM" />
         <option value="package:mine" />
         <option value="package:mine init" />
         <option value="level:error " />
@@ -33,7 +34,6 @@
         <option value="package:mine level:warn" />
         <option value="package:mine getRouteDeta" />
         <option value="package:mine init:" />
-        <option value="DirectionsFragment" />
       </list>
     </option>
   </component>
