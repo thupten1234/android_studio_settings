@@ -11,11 +11,11 @@
         <option value="package:mine FragmentManager" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
+        <option value="package:mine StrictMode" />
         <option value="package:mine Strict" />
+        <option value="package:mine" />
         <option value="package:mine message~:DirectionsFragment " />
         <option value="package:mine message~:WizardViewModel age:5m " />
         <option value="package:mine message~:WizardViewModel" />
@@ -33,7 +33,6 @@
         <option value="package:mine  NBRemoteApi" />
         <option value="package:mine NBRemote" />
         <option value="package:mine PredictionsHel" />
-        <option value="package:mine PredictionFragment" />
       </list>
     </option>
   </component>
