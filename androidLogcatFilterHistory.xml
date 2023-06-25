@@ -11,8 +11,11 @@
         <option value="package:mine FragmentManager" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="schemaDir" />
     <option name="nonFavorites">
       <list>
+        <option value="schemaDir" />
+        <option value="level:error" />
         <option value="package:mine predi" />
         <option value="Predictions" />
         <option value="message~:PredictionsFragment" />
@@ -31,8 +34,6 @@
         <option value="package:mine init" />
         <option value="level:error " />
         <option value="package:mine tag:TCLog " />
-        <option value="package:mine WizardViewM|Directions" />
-        <option value="package:mine WizardView" />
       </list>
     </option>
   </component>
